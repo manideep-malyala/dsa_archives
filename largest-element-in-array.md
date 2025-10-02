@@ -6,9 +6,18 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
 
 ---
-## Brute-Force Approach
+# STATEMENT 
+Given an array of integers, your task is to find the largest element in the array.
+
+- The array may contain positive, negative, or zero values.
+- You need to return the largest value present in the array.
+- Example:
+  - Input: `[1, 3, 2, 4, 9, 13, 2, 91, 21, 82]`
+  - Output: `91`
 
 ---
+## Brute-Force Approach
+
 ### Pseudocode
 1. Given an array of numbers.
 2. Sort the array in ascending order.
