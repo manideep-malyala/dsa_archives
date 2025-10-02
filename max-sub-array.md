@@ -1,6 +1,6 @@
 # PROBLEM : MAX SUB ARRAY
 ---
-## [Problem Link](https://leetcode.com/problems/maximum-subarray/)
+## Problem Link : [Max Sub Array - Leetcode](https://leetcode.com/problems/maximum-subarray/)
 
 ---
 # STATEMENT
