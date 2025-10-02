@@ -2,8 +2,7 @@
 ---
 ## Problem Link : [Largest Element in Array - GeeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
 ---
-## Difficulty Level
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
+## Difficulty Level : ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
 
 ---
 # STATEMENT 
