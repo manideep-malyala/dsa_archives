@@ -2,6 +2,7 @@
 ---
 ## Problem Link : [Max Sub Array - Leetcode](https://leetcode.com/problems/maximum-subarray/)
 
+## Difficulty Level : ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
 ---
 # STATEMENT
 You will be provided with an **array**.
